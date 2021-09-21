@@ -1,4 +1,4 @@
 # BlackJackJS
 A functional black jack using javascript 
 
-\nDemo: https://blackjackjurgen.netlify.app/
+Demo: https://blackjackjurgen.netlify.app/
